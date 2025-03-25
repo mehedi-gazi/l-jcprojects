@@ -1,6 +1,8 @@
 # JC & LC Engineering Projects Repository
 
-![Repository Banner](path/to/your/banner.jpg) <!-- Replace with actual image path -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5b04964f-bdb5-4ac8-a9fc-269fbf8fc2a0" alt="Repository Banner" width="50%" />
+</p>
 
 ## 📌 Overview
 This repository contains a collection of my Junior Certificate (JC) and Leaving Certificate (LC) engineering projects, showcasing my early hands-on experience in mechanical and electronic engineering. While my current focus is on software and computer engineering, these projects highlight my problem-solving skills, documentation ability, and engineering mindset.
@@ -14,18 +16,21 @@ This repository contains a collection of my Junior Certificate (JC) and Leaving 
 ---
 
 ## 💡 Key Projects
-### 🚗 **Arduino-Powered Autonomous Disability Vehicle**
+### 🚗 **Arduino-Powered Autonomous Disability Vehicle - LC Brief**
 - Designed and built a small vehicle controlled via an Arduino microcontroller.
 - Implemented basic motor control and sensors for movement and obstacle detection.
 - Developed a structured engineering report and schematics.
+- SEC Mark 198/200 -> Runner-Up Project of the Year
 
 ### ⚡ **Drawbridge based on JC Brief**
 - Created a scaled wind turbine model to explore sustainable energy generation.
 - Conducted efficiency testing and analyzed power output under different conditions.
+- Awarded Junior Certificate Project of the Year
 
-### 🏗 **Mechanical Arm Prototype**
+### 🏗 **Paper Plane Mechanised Launcher - 2nd Yr**
 - Designed and fabricated a simple mechanical arm with servo motors.
 - Used CAD tools for precise modeling and prototyping.
+- Awarded 1st in the school for the paperplane launch competition
 
 > **Note:** More projects and details can be found in their respective folders within the repository.
 
