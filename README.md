@@ -28,7 +28,7 @@ This repository contains a collection of my Junior Certificate (JC) and Leaving 
 - Awarded Junior Certificate Project of the Year
 
 ### 🏗 **Paper Plane Mechanised Launcher - 2nd Yr**
-- Designed and fabricated a simple mechanical arm with servo motors.
+- Designed and fabricated a paper plane mechanised launcher using a combination of LDRs, Motors and LEDs to facilitate the project brief.
 - Used CAD tools for precise modeling and prototyping.
 - Awarded 1st in the school for the paperplane launch competition
 
